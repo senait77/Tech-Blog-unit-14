@@ -110,7 +110,7 @@ With Nodemon:
 Helper testing is currently setup with Jest
 
 ## Contributing
-:octocat: [Senait-Gerezgiher]()
+:octocat: [Senait-Gerezgiher](https://github.com/senait77/Tech-Blog-unit-14)
 
 ## Questions
-✉️ Contact me with any questions: [email](senutekie77@gmail.com) , [GitHub]()<br />
+✉️ Contact me with any questions: [email](senutekie77@gmail.com) , [GitHub](https://github.com/senait77/Tech-Blog-unit-14)<br />

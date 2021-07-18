@@ -17,7 +17,7 @@
   
 💻 Below is a screenshot of the application:
   
-[technically speaking: a tech blog]('./tech-blog.png)
+[technically speaking: a tech blog]('./tech-blog.png')
 
 ## User Story
 

@@ -16,8 +16,6 @@
 **[Deployed Application]()**
   
 💻 Below is a screenshot of the application:
-  
-[technically speaking: a tech blog]
     <p align="center">
         <img src="./tech-blog.png" />  
     </p>
